@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Mon Portfolio](https://github.com/SAULAS-Enzo/Portfolio.git)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **SAE Image**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAULAS-Enzo/Portfolio.git](https://github.com/SAULAS-Enzo/Portfolio.git)
 
 - 📫 How to reach me **enzojeansau@gmail.com**
 
-- ⚡ Fun fact **"Be you, be proud of you, because you can be do what we want to do"**
+**"Be you, be proud of you, because you can be do what we want to do"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
