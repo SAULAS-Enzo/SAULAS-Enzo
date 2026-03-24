@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAULAS Enzo</h1>
 <h3 align="center">Etudiant BUT1 Informatique à Orléans 45000</h3>
 
-- 🔭 I’m currently working on [Mon Portfolio](https://github.com/SAULAS-Enzo/Portfolio.git)
-
-- 🌱 I’m currently learning **SAE Image**
+- 🌱 I’m currently learning **Application de quiz en Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAULAS-Enzo/Portfolio.git](https://github.com/SAULAS-Enzo/Portfolio.git)
 
