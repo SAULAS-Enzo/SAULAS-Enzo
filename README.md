@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAULAS Enzo</h1>
 <h3 align="center">Etudiant BUT1 Informatique à Orléans 45000</h3>
 
-- 🌱 I’m currently learning **Application de quiz en Java**
+- 🌱 My new project is **FlightManager** -> Interface graphique avec JavaFX pour réunir plusieurs fonctionnalités indispensables pour un pilote de simulation de l'Aviation Générale.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SAULAS-Enzo/Portfolio.git](https://github.com/SAULAS-Enzo/Portfolio.git)
 
