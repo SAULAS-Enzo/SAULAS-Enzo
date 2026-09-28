@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAULAS Enzo</h1>
-<h3 align="center">Etudiant BUT1 Informatique à Orléans 45000</h3>
+<h3 align="center">Etudiant BUT2 Informatique à Orléans 45000</h3>
 
 - 🌱 My new project is **FlightManager** -> Interface graphique avec JavaFX pour réunir plusieurs fonctionnalités indispensables pour un pilote de simulation de l'Aviation Générale.
 
