@@ -3,9 +3,8 @@
 
 - 🌱 My new project is **FlightManager** -> Interface graphique avec JavaFX pour réunir plusieurs fonctionnalités indispensables pour un pilote de simulation de l'Aviation Générale.
 
-- 👨‍💻 My current project is available at https://github.com/SAULAS-Enzo/FlightManager-Site_web.git
-  
-- WebSite : https://saulas-enzo.github.io/FlightManager
+- 👨‍💻 My current project is available at [https://github.com/SAULAS-Enzo/FlightManager-Site_web.git](https://github.com/SAULAS-Enzo/FlightManager---Application-Web)
+
 
 - 📫 How to reach me **enzojeansau@gmail.com**
 
