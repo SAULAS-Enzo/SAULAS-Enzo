@@ -31,5 +31,3 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
-
-![GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRoYnQwYXZ5NTR5MnFocmFuZHU3Z3JmMnpicjJ5dWV0OW5vd21waCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h45Djl8fwx033Qzqxd/giphy.gif)
