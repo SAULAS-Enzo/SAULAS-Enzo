@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Salut, moi c'est Enzo Saulas 👋</h1>
   <h3>Étudiant en BUT2 Informatique à Orléans (45) • Développeur Full-Stack</h3>
-  <p><em>À la recherche d'un stage / d'une alternance pour mettre mes compétences techniques au service de projets concrets.</em></p>
 
   <p>
     <a href="https://linkedin.com/in/enzo-saulas-54aab4371" target="_blank">
