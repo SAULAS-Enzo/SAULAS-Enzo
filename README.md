@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **enzojeansau@gmail.com**
 
-**"Be you, be proud of you, because you can be do what we want to do"**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SAULAS-Enzo&theme=dark&locale=fr)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
