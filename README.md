@@ -52,3 +52,4 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SAULAS-Enzo&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Statistiques GitHub" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SAULAS-Enzo&theme=tokyonight&hide_border=true&locale=fr" alt="Série de contributions" />
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAULAS-Enzo&stats_format=bytes)
