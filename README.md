@@ -12,6 +12,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAULAS-Enzo)](https://github.com/SAULAS-Enzo/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAULAS-Enzo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enzo-saulas-54aab4371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo saulas" height="30" width="40" /></a>
